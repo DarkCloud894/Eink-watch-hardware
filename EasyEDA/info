@@ -1,0 +1,274 @@
+{
+  "uuid": "e7b98d3da1227d7fc2b91da90e195f8c",
+  "path": "Offline/watch-hardware-easyeda",
+  "name": "watch-hardware-easyeda",
+  "content": "",
+  "created_at": "2026-04-25 22:59:56",
+  "updated_at": "2026-04-25 23:02:18",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "8698ee90765c8e092c239c02424627a5",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "0f555919900e4902bcc94053395edfbf": 1,
+        "7809ed3ba7c24a14936ce2a66b37ccdb": 1,
+        "126fa5eeceab48d8a1f742bd732f339a": 3,
+        "24eeb2ceca08480b92b847b6a310acda": 1,
+        "b0248eb51e084227889f2cb84eab79c4": 1,
+        "9698a5ebc38f435fb5a5f9ff5b84927c": 1,
+        "3ec77201bbcd4ecd8722658d581a4e60": 1,
+        "944ca2f18b8f43e6aa642583d275ffbc": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "0.1 мкФ",
+          1,
+          "C0603",
+          "C1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "1N4148W",
+          1,
+          "SOD-123FL_L2.6-W1.6-LS3.4-RD",
+          "D1",
+          {
+            "Manufacturer Part": "1N4148W",
+            "Manufacturer": "Tak Cheong",
+            "Supplier": "LCSC",
+            "Supplier Part": "C129216"
+          }
+        ],
+        [
+          "HDR-F-2.54_1x8",
+          1,
+          "HDR-F-2.54_1X8",
+          "E-INK",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C225505"
+          }
+        ],
+        [
+          "300k",
+          1,
+          "R0805",
+          "R2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "100k",
+          1,
+          "R0603",
+          "R3",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "ESP32C3-SUPERMINI",
+          1,
+          "COMM-SMD_16P-L22.5-W18.0-P2.54-TL",
+          "U1",
+          {
+            "Manufacturer Part": "ESP32C3-SuperMini",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9900147397"
+          }
+        ],
+        [
+          "KEY3X6X3.5MM",
+          3,
+          "KEY-SMD_KEY3-6-3.5MM",
+          "U2,U3,U4",
+          {
+            "Manufacturer Part": "KEY3X6X3.5MM",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9900001594"
+          }
+        ],
+        [
+          "HDR-F-2.54_1x2",
+          1,
+          "HDR-F-2.54_1X2",
+          "VIBRATION",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C49661"
+          }
+        ]
+      ],
+      "updateTime": 1777147327,
+      "createTime": 1777147196,
+      "histories": [],
+      "created_at": "2026-04-25 22:59:56",
+      "updated_at": "2026-04-25 23:02:07"
+    },
+    {
+      "uuid": "a18de017cdc6a10d1df2a7c0f70b951d",
+      "puuid": "49a5e5a72dadee24a41036e25949cb26",
+      "title": "PCB_PCB_esp32c3_2_2026-04-24",
+      "filename": "PCB_PCB_esp32c3_2_2026-04-24.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "f8151fdc728a41ebbc304e11d39e5437": 1,
+        "76a028e0363649388f2a2e340a157455": 1,
+        "36b1306a115341f4b4d9407fb34974e0": 1,
+        "b60f399a7a7e41848b2be1eb49c79141": 1,
+        "398691f1f785460098bbe5ee6590333c": 1,
+        "a97f5b7dda374d21b303cfcde1d7b753": 1,
+        "83e829bd43f241109f4ba3ec353a1492": 3,
+        "cdaeb2b51e764872b7fe887c2dfcf9c6": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "0.1 мкФ",
+          1,
+          "C0603",
+          "C1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "HDR-F-2.54_1x8",
+          1,
+          "HDR-F-2.54_1X8",
+          "H1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C225505"
+          }
+        ],
+        [
+          "HDR-F-2.54_1x2",
+          1,
+          "HDR-F-2.54_1X2",
+          "H2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C49661"
+          }
+        ],
+        [
+          "300k",
+          1,
+          "R0805",
+          "R2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "100k",
+          1,
+          "R0603",
+          "R3",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "ESP32C3-SUPERMINI",
+          1,
+          "COMM-SMD_16P-L22.5-W18.0-P2.54-TL",
+          "U1",
+          {
+            "Manufacturer Part": "ESP32C3-SuperMini",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9900147397"
+          }
+        ],
+        [
+          "KEY3X6X3.5MM",
+          3,
+          "KEY-SMD_KEY3-6-3.5MM",
+          "U2,U3,U4",
+          {
+            "Manufacturer Part": "KEY3X6X3.5MM",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9900001594"
+          }
+        ],
+        [
+          "TP4056",
+          1,
+          "TP4056",
+          "U71",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ]
+      ],
+      "updateTime": 1777147338,
+      "createTime": 1777147338,
+      "histories": [],
+      "created_at": "2026-04-25 23:02:18",
+      "updated_at": "2026-04-25 23:02:18"
+    }
+  ],
+  "sort": [],
+  "title": "watch-hardware-easyeda",
+  "foldername": "watch-hardware-easyeda",
+  "schfilename": "esp32c3.json",
+  "schfilemtime": 1777147327145
+}
